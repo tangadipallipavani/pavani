@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tangadipallipavani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m pavani
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Github
+- 💞️ I’m searching for a Job
+- 📫 At my Home
 
 <!---
 tangadipallipavani/tangadipallipavani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
