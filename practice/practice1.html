@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>With call(), an object can use a method belonging to another object.</title>
+<!-- the rest of the page content -->
+</head>
+<body>
+<h2>JavaScript Functions</h2>
+<p id="demo"></p>
+<script>
+const person = {
+fullName: function() {
+return this.firstName + " " + this.lastName;
+}
+}
+const person1 = {
+firstName:"Jayanth",
+lastName: "Kumar"
+}
+const person2 = {
+firstName:"Pavani",
+lastName: "Reddy"
+}
+document.getElementById("demo").innerHTML = person.fullName.call(person1);
+</script>
+</body>
+</html>
